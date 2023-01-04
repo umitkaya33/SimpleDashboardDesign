@@ -215,7 +215,7 @@ pointer-events: none;
 
 /* main Finish */
 
-/* CardBox */
+/* CardBox Start*/
 .cardBox {
     position: relative;
     width: 100%;
@@ -263,3 +263,5 @@ pointer-events: none;
 .cardBox .card:hover .iconBx {
     color: var(--white);
 }
+
+/* CardBox End */
